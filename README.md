@@ -19,9 +19,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Valentina's GitHub stats](https://github-readme-stats.vercel.app/api?username=vsamaya&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsamaya&layout=compact&theme=radical)  
-![GitHub Streak](https://streak-stats.demolab.com?user=vsamaya&theme=radical)  
+![Valentina's GitHub stats](https://github-readme-stats.vercel.app/api?username=vsamaya&show_icons=true&count_private=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vsamaya&layout=compact&count_private=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=vsamaya&count_private=true&theme=radical)  
 
 ---
 
